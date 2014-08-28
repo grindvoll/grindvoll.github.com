@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="com.grindvoll" module="graphviz-s_2.11" revision="1.0.1" status="release" publication="20140828122132">
+	<info organisation="com.grindvoll" module="graphviz-s_2.11" revision="1.0.1" status="release" publication="20140828133623">
 		<description>
 		graphviz-s
 		</description>
