@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.grindvoll</groupId>
     <artifactId>snmp4s-core_2.11</artifactId>
-    <packaging>bundle</packaging>
+    <packaging>jar</packaging>
     <description>snmp4s-core</description>
     <url>http://snmp4s.org</url>
     <version>0.2.1</version>
@@ -19,17 +19,6 @@
         <name>com.grindvoll</name>
         <url>http://snmp4s.org</url>
     </organization>
-    <scm>
-        <url>git@github.com:barnesjd/snmp4s.git</url>
-        <connection>scm:git:git@github.com:barnesjd/snmp4s.git</connection>
-    </scm>
-    <developers>
-        <developer>
-            <id>barnesjd</id>
-            <name>Joe Barnes</name>
-            <url>https://twitter.com/josefusbarnabas</url>
-        </developer>
-    </developers>
     <dependencies>
         <dependency>
             <groupId>org.scala-lang</groupId>
